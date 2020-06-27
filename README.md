@@ -7,6 +7,18 @@ microGISG can be implemented with any type of custom rom that does not include G
 
 microGISG is currently only available in the Magisk module package, and will also be developed for custom recovery packages.
 
+# Supported device:
+* 4.4 / SDK 19 (KitKat)
+* 5.0 / SDK 21 (Lollipop)
+* 5.1 / SDK 22 (Lollipop)
+* 6.0 / SDK 23 (Marshmallow)
+* 7.0 / SDK 24 (Nougat)
+* 7.1 / SDK 25 (Nougat)
+* 8.0 / SDK 26 (Oreo)
+* 8.1 / SDK 27 (Oreo)
+* 9.0 / SDK 28 (Pie)
+* 10.0 / SDK 29 (Q) 
+
 # The method of implementation is as follows:
 # Requirements
 * Unlocked bootloader
@@ -43,7 +55,7 @@ microGISG is currently only available in the Magisk module package, and will als
 
 For more information and to not miss updates, visit and subscribe to the Telegram channel [@stopgapps_id]
 
-Thanks to:
+# Thanks to:
 * [Marvin W] & [ale5000] for microG support
 
 [@stopgapps_id]: <https://t.me/@stopgapps_id>
