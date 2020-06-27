@@ -18,12 +18,12 @@ microGISG is currently only available in the Magisk module package, and will als
 * Enter the Magisk Manager
 * Flash microGISG
 * Flash Riru Core
-* EdXposed Mimic Flash
+* Flash Riru EdXposed
 * Flash BusyBox (if needed)
 * Reboot your device
 * Install EdXposed Manager
 * Open EdXposed Manager
-* Check EdXposed Manager & MicroGISG Core Services in the module section
+* Check EdXposed Manager & microGISG Core Services in the module section
 * Reboot your device
 * Open microGISG settings and adjust permissions and configuration
 * Done
@@ -37,7 +37,7 @@ microGISG is currently only available in the Magisk module package, and will als
 * [Magisk]
 * [microGISG]
 * [Riru Core]
-* [EdXposed copy]
+* [Riru EdXposed]
 * [EdXposed Manager]
 * [BusyBox]
 
@@ -47,6 +47,6 @@ For more information and to not miss updates, visit and subscribe to the Telegra
 [Magisk]: <https://github.com/topjohnwu/Magisk>
 [microGISG]: <https://github.com/ronnayryukay/microGISG>
 [Riru Core]: <https://github.com/RikkaApps/Riru/releases>
-[Mimic EdXposed]: <https://github.com/ElderDrivers/EdXposed/releases>
+[Riru EdXposed]: <https://github.com/ElderDrivers/EdXposed/releases>
 [EdXposed Manager]: <https://github.com/ElderDrivers/EdXposedManager/releases>
 [BusyBox]: <https://github.com/Magisk-Modules-Repo/busybox-ndk>
