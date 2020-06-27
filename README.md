@@ -1,52 +1,52 @@
 # microGISG
-microGISG adalah singkatan dari microG Indonesian Stop GApps.
+microGISG is an abbreviation of microG Indonesian Stop GApps.
 
-microGISG mudah diimplementasikan dan mendukung pengguna Android tanpa GApss, khususnya di Indonesia.
+microGISG is easy to implement and supports Android users without GApss, especially in Indonesia.
 
-microGISG dapat diimplementasikan dengan segala jenis custom rom yang tidak termasuk GApps, seperti LineageOS, CRDroid, CarbonROM, dan lainnya.
+microGISG can be implemented with any type of custom rom that does not include GApps, such as LineageOS, CRDroid, CarbonROM, and others.
 
-microGISG saat ini hanya tersedia dalam paket modul Magisk, dan akan dikembangkan juga untuk paket custom recovery.
+microGISG is currently only available in the Magisk module package, and will also be developed for custom recovery packages.
 
-# Adapun cara implementasinya adalah sebagai berikut:
-# Syarat
-* Bootloader Unlocked
-* Memiliki TWRP atau Custom Recovery
-* Menggunakan Custom ROM seperti yang disebutkan diatas
-* Tidak menggunakan GApps atau microG jenis lainnya
-# Cara Implementasi
-* Flash Magisk kemudian Reboot
-* Masuk ke Magisk Manager
+# The method of implementation is as follows:
+# Requirements
+* Unlocked bootloader
+* Has TWRP or Custom Recovery
+* Using Custom ROM as mentioned above
+* Does not use GApps or other types of microG
+# How to Implementation
+* Flash Magisk then Reboot
+* Enter the Magisk Manager
 * Flash microGISG
 * Flash Riru Core
-* Flash Riru EdXposed
-* Flash BusyBox (bila dibutuhkan)
-* Reboot perangkat anda
-* Pasang EdXposed Manager
-* Buka EdXposed Manager
-* Centang EdXposed Manager & Layanan Inti microGISG pada bagian modul
-* Reboot perangkat anda
-* Buka pengaturan microGISG dan sesuaikan izin dan konfigurasi
-* Selesai
+* EdXposed Mimic Flash
+* Flash BusyBox (if needed)
+* Reboot your device
+* Install EdXposed Manager
+* Open EdXposed Manager
+* Check EdXposed Manager & MicroGISG Core Services in the module section
+* Reboot your device
+* Open microGISG settings and adjust permissions and configuration
+* Done
 
-# Catatan & Wajib Diketahui:
-* Untuk Android 10 pastikan beri ijin lokasi sepanjang waktu
-* Pastikan microGISG tidak masuk pengoptimalan baterai (Abaikan Optimal Baterai untuk microGISG)
-* Jika menggunakan F-Droid dengan NanoDroid & microG repositori, jangan lakukan pembaruan jika terdapat pembaruan untuk GMS Core dan GSF Core, karena microGISG memiliki tanda tangan dan sistem yang berbeda serta tidak terikat dengan kedua repositori tersebut
+# Notes & Must Know:
+* For Android 10 make sure to give location permission all the time
+* Ensure that microGISG does not enter battery optimization (Ignore Optimal Battery for microGISG)
+* If using F-Droid with NanoDroid & microG repositories, do not update if there are updates for GMS Core and GSF Core, because microGISG has different signatures and systems and is not bound by the two repositories.
 
-# Untuk bahan-bahan yang diperlukan dapat diunduh pada link berikut:
+# For the materials needed can be downloaded at the following link:
 * [Magisk]
 * [microGISG]
 * [Riru Core]
-* [Riru EdXposed]
+* [EdXposed copy]
 * [EdXposed Manager]
 * [BusyBox]
 
-Untuk info lebih lengkap dan agar tidak ketinggalan pembaruan, kunjungi dan subscribe channel Telegram [@stopgapps_id]
+For more information and to not miss updates, visit and subscribe to the Telegram channel [@stopgapps_id]
 
 [@stopgapps_id]: <https://t.me/@stopgapps_id>
 [Magisk]: <https://github.com/topjohnwu/Magisk>
 [microGISG]: <https://github.com/ronnayryukay/microGISG>
 [Riru Core]: <https://github.com/RikkaApps/Riru/releases>
-[Riru EdXposed]: <https://github.com/ElderDrivers/EdXposed/releases>
+[Mimic EdXposed]: <https://github.com/ElderDrivers/EdXposed/releases>
 [EdXposed Manager]: <https://github.com/ElderDrivers/EdXposedManager/releases>
 [BusyBox]: <https://github.com/Magisk-Modules-Repo/busybox-ndk>
