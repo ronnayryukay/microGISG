@@ -7,7 +7,7 @@ microGISG can be implemented with any type of custom rom that does not include G
 
 microGISG is currently only available in the Magisk module package, and will also be developed for custom recovery packages.
 
-# Supported device:
+# Supported device
 * 4.4 / SDK 19 (KitKat)
 * 5.0 / SDK 21 (Lollipop)
 * 5.1 / SDK 22 (Lollipop)
@@ -19,12 +19,12 @@ microGISG is currently only available in the Magisk module package, and will als
 * 9.0 / SDK 28 (Pie)
 * 10.0 / SDK 29 (Q) 
 
-# The method of implementation is as follows:
 # Requirements
 * Unlocked bootloader
 * Has TWRP or Custom Recovery
 * Using Custom ROM as mentioned above
 * Does not use GApps or other types of microG
+
 # How to Implementation
 * Flash Magisk then Reboot
 * Enter the Magisk Manager
@@ -40,12 +40,12 @@ microGISG is currently only available in the Magisk module package, and will als
 * Open microGISG settings and adjust permissions and configuration
 * Done
 
-# Notes & Must Know:
+# Notes & Must Know
 * For Android 10 make sure to give location permission all the time
 * Ensure that microGISG does not enter battery optimization (Ignore Optimal Battery for microGISG)
 * If using F-Droid with NanoDroid & microG repositories, do not update if there are updates for GMS Core and GSF Core, because microGISG has different signatures and systems and is not bound by the two repositories.
 
-# For the materials needed can be downloaded at the following link:
+# For the materials needed can be downloaded at the following link
 * [Magisk]
 * [microGISG]
 * [Riru Core]
@@ -53,10 +53,10 @@ microGISG is currently only available in the Magisk module package, and will als
 * [EdXposed Manager]
 * [BusyBox]
 
-For more information and to not miss updates, visit and subscribe to the Telegram channel [@stopgapps_id]
-
-# Thanks to:
+# Thanks to
 * [Marvin W] & [ale5000] for microG support
+
+For more information and to not miss updates, visit and subscribe to the Telegram channel [@stopgapps_id]
 
 [@stopgapps_id]: <https://t.me/@stopgapps_id>
 [Magisk]: <https://github.com/topjohnwu/Magisk>
