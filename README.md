@@ -1,7 +1,7 @@
 # microGISG
 microGISG is an abbreviation of microG Indonesian Stop GApps.
 
-microGISG is easy to implement and supports Android users without GApss, especially in Indonesia.
+microGISG based of [microG] and is easy to implement and supports Android users without GApss, especially in Indonesia.
 
 microGISG can be implemented with any type of custom rom that does not include GApps, such as LineageOS, CRDroid, CarbonROM, and others.
 
@@ -43,6 +43,9 @@ microGISG is currently only available in the Magisk module package, and will als
 
 For more information and to not miss updates, visit and subscribe to the Telegram channel [@stopgapps_id]
 
+Thanks to:
+* [Marvin W] & [ale5000] for microG support
+
 [@stopgapps_id]: <https://t.me/@stopgapps_id>
 [Magisk]: <https://github.com/topjohnwu/Magisk>
 [microGISG]: <https://github.com/ronnayryukay/microGISG>
@@ -50,3 +53,6 @@ For more information and to not miss updates, visit and subscribe to the Telegra
 [Riru EdXposed]: <https://github.com/ElderDrivers/EdXposed/releases>
 [EdXposed Manager]: <https://github.com/ElderDrivers/EdXposedManager/releases>
 [BusyBox]: <https://github.com/Magisk-Modules-Repo/busybox-ndk>
+[Marvin W]: <https://github.com/mar-v-in>
+[ale5000]: <https://github.com/ale5000-git>
+[microG]: <https://github.com/microg>
