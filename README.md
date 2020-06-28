@@ -7,6 +7,17 @@ microGISG can be implemented with any type of custom rom that does not include G
 
 microGISG is currently only available in the Magisk module package, and will also be developed for custom recovery packages.
 
+# microGISG Include
+* microGISG GMS Core
+* microGISG GFS Proxy
+* microGISG Fake Store
+* microGISG Fake Maps
+* microGISG UnifiedNlp Backend
+* microGISG Nominatim Backend
+* Aurora Store
+* Aurora Droid
+* Aurora Service
+
 # Supported device
 * 4.4 / SDK 19 (KitKat)
 * 5.0 / SDK 21 (Lollipop)
