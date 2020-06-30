@@ -14,6 +14,7 @@ microGISG is currently only available in the Magisk module package, and will als
 * microGISG Fake Maps
 * microGISG UnifiedNlp Backend
 * microGISG Nominatim Backend
+* microGISG Boot Animation
 * Aurora Store
 * Aurora Droid
 * Aurora Service
