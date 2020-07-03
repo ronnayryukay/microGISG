@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <permissions>
     <privapp-permissions package="com.google.android.apps.maps">
-        <permission name="android.permission.FAKE_PACKAGE_SIGNATURE"/>
+        <permission name="android.permission.ACCESS_FINE_LOCATION"/>
+        <permission name="android.permission.ACCESS_COARSE_LOCATION"/>
     </privapp-permissions>
 </permissions>

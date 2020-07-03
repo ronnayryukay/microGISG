@@ -9,7 +9,7 @@ microGISG is currently only available in the Magisk module package, and will als
 
 # microGISG Include
 * microGISG GMS Core
-* microGISG GSF Proxy
+* microGISG GFS Proxy
 * microGISG Fake Store
 * microGISG Fake Maps
 * microGISG UnifiedNlp Backend
