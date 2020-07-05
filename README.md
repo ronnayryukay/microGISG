@@ -7,6 +7,10 @@ microGISG can be implemented with any type of custom rom that does not include G
 
 microGISG is currently only available in the Magisk module package, and will also be developed for custom recovery packages.
 
+Telegram Official Channel: [@stopgapps_id]
+
+Do you like this project? [Buy Coffee for Developer]
+
 # microGISG Include
 * microGISG GMS Core
 * microGISG GFS Proxy
@@ -19,10 +23,7 @@ microGISG is currently only available in the Magisk module package, and will als
 * Aurora Droid
 * Aurora Service
 
-# Supported device
-* 4.4 / SDK 19 (KitKat)
-* 5.0 / SDK 21 (Lollipop)
-* 5.1 / SDK 22 (Lollipop)
+# Supported device
 * 6.0 / SDK 23 (Marshmallow)
 * 7.0 / SDK 24 (Nougat)
 * 7.1 / SDK 25 (Nougat)
@@ -66,7 +67,7 @@ microGISG is currently only available in the Magisk module package, and will als
 * [BusyBox]
 
 # Thanks to
-* [Marvin W] & [ale5000] for microG support
+* [Marvin W] for microG support
 
 For more information and to not miss updates, visit and subscribe to the Telegram channel [@stopgapps_id]
 
@@ -77,6 +78,7 @@ For more information and to not miss updates, visit and subscribe to the Telegra
 [Riru EdXposed]: <https://github.com/ElderDrivers/EdXposed/releases>
 [EdXposed Manager]: <https://github.com/ElderDrivers/EdXposedManager/releases>
 [BusyBox]: <https://github.com/Magisk-Modules-Repo/busybox-ndk>
-[Marvin W]: <https://github.com/mar-v-in>
-[ale5000]: <https://github.com/ale5000-git>
+[Marvin W]: <https://github.com/mar-v-in>
 [microG]: <https://github.com/microg>
+[Buy Coffee for Developer]: <https://www.paypal.me/ronidianpatisa>
+
