@@ -3,7 +3,7 @@ microGISG is an abbreviation of microG Indonesian Stop GApps.
 
 microGISG based of [microG] and is easy to implement and supports Android users without GApss, especially in Indonesia.
 
-microGISG can be implemented with any type of custom rom that does not include GApps, such as LineageOS, CRDroid, CarbonROM, and others.
+microGISG can be implemented with any type of custom rom that does not include GApps, such as LineageOS, CRDroid, CarbonROM, Ancient OS and others.
 
 microGISG is currently only available in the Magisk module package, and will also be developed for custom recovery packages.
 
@@ -23,11 +23,7 @@ Do you like this project? [Buy Coffee for Developer]
 * Aurora Droid
 * Aurora Service
 
-# Supported device
-* 6.0 / SDK 23 (Marshmallow)
-* 7.0 / SDK 24 (Nougat)
-* 7.1 / SDK 25 (Nougat)
-* 8.0 / SDK 26 (Oreo)
+# Supported device
 * 8.1 / SDK 27 (Oreo)
 * 9.0 / SDK 28 (Pie)
 * 10.0 / SDK 29 (Q) 
@@ -80,5 +76,8 @@ For more information and to not miss updates, visit and subscribe to the Telegra
 [BusyBox]: <https://github.com/Magisk-Modules-Repo/busybox-ndk>
 [Marvin W]: <https://github.com/mar-v-in>
 [microG]: <https://github.com/microg>
+[Buy Coffee for Developer]: <https://www.paypal.me/ronidianpatisa>
+
+: <https://github.com/microg>
 [Buy Coffee for Developer]: <https://www.paypal.me/ronidianpatisa>
 
