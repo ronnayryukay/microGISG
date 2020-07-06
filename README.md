@@ -23,7 +23,10 @@ Do you like this project? [Buy Coffee for Developer]
 * Aurora Droid
 * Aurora Service
 
-# Supported device
+# Supported device
+
+
+
 * 8.1 / SDK 27 (Oreo)
 * 9.0 / SDK 28 (Pie)
 * 10.0 / SDK 29 (Q) 
@@ -74,10 +77,7 @@ For more information and to not miss updates, visit and subscribe to the Telegra
 [Riru EdXposed]: <https://github.com/ElderDrivers/EdXposed/releases>
 [EdXposed Manager]: <https://github.com/ElderDrivers/EdXposedManager/releases>
 [BusyBox]: <https://github.com/Magisk-Modules-Repo/busybox-ndk>
-[Marvin W]: <https://github.com/mar-v-in>
+[Marvin W]: <https://github.com/mar-v-in>
+
 [microG]: <https://github.com/microg>
 [Buy Coffee for Developer]: <https://www.paypal.me/ronidianpatisa>
-
-: <https://github.com/microg>
-[Buy Coffee for Developer]: <https://www.paypal.me/ronidianpatisa>
-
