@@ -24,12 +24,10 @@ Do you like this project? [Buy Coffee for Developer]
 * Aurora Service
 
 # Supported device
-
-
-
 * 8.1 / SDK 27 (Oreo)
 * 9.0 / SDK 28 (Pie)
-* 10.0 / SDK 29 (Q) 
+* 10.0 / SDK 29 (Q)
+* Other you can tested and report me
 
 # Requirements
 * Unlocked bootloader
@@ -80,4 +78,6 @@ For more information and to not miss updates, visit and subscribe to the Telegra
 [Marvin W]: <https://github.com/mar-v-in>
 
 [microG]: <https://github.com/microg>
+
 [Buy Coffee for Developer]: <https://www.paypal.me/ronidianpatisa>
+
