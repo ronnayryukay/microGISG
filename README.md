@@ -39,13 +39,13 @@ Do you like this project? [Buy Coffee for Developer]
 * Flash Magisk then Reboot
 * Enter the Magisk Manager
 * Flash microGISG
-* Flash Riru Core
-* Flash Riru EdXposed
+* Flash Riru Core (only for ROM unsupported spoofing)
+* Flash Riru EdXposed (only for ROM unsupported spoofing)
 * Flash BusyBox (if needed)
 * Reboot your device
-* Install EdXposed Manager
-* Open EdXposed Manager
-* Check EdXposed Manager & microGISG Core Services in the module section
+* Install EdXposed Manager (only for ROM unsupported spoofing)
+* Open EdXposed Manager (only for ROM unsupported spoofing)
+* Check EdXposed Manager & microGISG Core Services in the module section (only for ROM unsupported spoofing)
 * Reboot your device
 * Open microGISG settings and adjust permissions and configuration
 * Done
