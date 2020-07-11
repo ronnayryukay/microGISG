@@ -18,6 +18,7 @@ Do you like this project? [Buy Coffee for Developer]
 * microGISG Fake Maps
 * microGISG UnifiedNlp Backend
 * microGISG Nominatim Backend
+* microGISG Spoofing
 * microGISG Boot Animation
 * Aurora Store
 * Aurora Droid
